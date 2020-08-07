@@ -1,13 +1,12 @@
 certifi==2020.6.20
 click==7.1.2
 Flask==1.1.2
-Flask-SQLAlchemy @ file:///tmp/build/80754af9/flask-sqlalchemy_1594354204531/work
 Flask-WTF==0.14.3
 gunicorn==20.0.4
 itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
-SQLAlchemy @ file:///C:/ci/sqlalchemy_1593446399229/work
+SQLAlchemy==1.3.18
 Werkzeug==1.0.1
 wincertstore==0.2
 WTForms==2.3.1
